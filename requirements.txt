@@ -1,5 +1,9 @@
-google-play-scraper
 pandas
 numpy
-python-dateutil
+scikit-learn
+spacy
+transformers
+torch
+matplotlib
 pytest
+google-play-scraper
